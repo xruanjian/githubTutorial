@@ -1,0 +1,8 @@
+小白使用droidedit老是无法上传git
+看了下教程，总结:
+首先新建一个repository，使用最上面向导来创建，记得勾选下面initialize，让系统自己给我初始化
+
+droidedit配置好git所需要的仓库，然后clone到手机本地
+
+以后使用  文件--另存为，github，文件名--再到主界面上传--提交说明---push
+Well Done!
